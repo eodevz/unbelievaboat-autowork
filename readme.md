@@ -8,9 +8,9 @@ Contents:
 # Requirements
 If you're not a stupid ahh person, you know how to install requirements, right?
 All requirements are:
-> pyautogui
-> time
-> datetime
+- pyautogui
+- time
+- datetime
 
 If you don't know how to install them, open a new terminal in VSCode and then type this command for each requirement:
 - ```pip install pyautogui```
