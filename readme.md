@@ -21,5 +21,5 @@ Then, run it!
 - The coolest thing in this system is he actually logs when the action was fired
 - Yeah, he logs hours, minutes and even seconds of the action.
 - The "deposit" command already comes as true, but I really recommend you to disable it so you won't be able to be caught that easily by moderators.
-Also, use it for **educational purposes**.
+- Also, use it for **educational purposes**.
 **DO NOT** use this on famous servers, this can actually get you banned from the server and even from Discord since they'll know that you're "selfboting".
